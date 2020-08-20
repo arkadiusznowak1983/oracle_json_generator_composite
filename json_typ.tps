@@ -1,5 +1,4 @@
 create or replace type json_typ under json_interface_typ( 
-/* Aplikacjia: ODTWARZANIE_VSS  
 /* Moduł: generowanie JSON 
 /* Przeznaczenie: Możliwość generowania w Oracle 12.1 danych JSON 
 /* na podobieństwo JSON_OBJECT_T i JSON_ARRAY_T dostępnych w Oracle 12.2 
